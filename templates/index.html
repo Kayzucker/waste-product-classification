@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Waste Product Classification</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h1>Waste Product Classification</h1>
+    <p>Upload an image of waste to classify it using AI.</p>
+
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/*" required>
+        <br><br>
+        <button type="submit">Classify Waste</button>
+    </form>
+
+    {% if uploaded_image %}
+        <div class="result">
+            <h3>Uploaded Image</h3>
+            <img src="{{ url_for('static', filename='uploads/' + uploaded_image) }}" class="preview">
+
+            {% if prediction %}
+                <h3>Prediction Result</h3>
+                <p class="prediction">
+                    {{ prediction | capitalize }} ({{ confidence }}%)
+                </p>
+            {% endif %}
+        </div>
+    {% endif %}
+</div>
+
+</body>
+</html>
