@@ -1,0 +1,9 @@
+# Trained ML models (do not commit binaries)
+models/model.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
